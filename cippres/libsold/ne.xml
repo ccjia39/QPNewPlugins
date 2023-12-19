@@ -1,0 +1,45 @@
+<input>
+
+  <cirun>
+
+    <general>
+      <spin> 1 </spin>
+      <electron na=' 5 ' nb=' 5 ' />
+    </general>
+
+    <block>
+      <space ne=' 10 ' imo=' 1 ' fmo=' 5 ' />
+    </block>
+
+    <block>
+      <space ne=' 4 ' imo=' 1 ' fmo=' 2 ' />
+      <space ne=' 5 ' imo=' 3 ' fmo=' 5 ' />
+      <space ne=' 1 ' imo=' 6 ' fmo=' 50 ' />
+    </block>
+
+    <block>
+      <space ne=' 4 ' imo=' 1 ' fmo=' 2 ' />
+      <space ne=' 4 ' imo=' 3 ' fmo=' 5 ' />
+      <space ne=' 2 ' imo=' 6 ' fmo=' 32 ' />
+    </block>
+
+
+    <block>
+      <space ne=' 4 ' imo=' 1 ' fmo=' 2 ' />
+      <space ne=' 5 ' imo=' 3 ' fmo=' 5 ' />
+      <space ne=' 1 ' imo=' 51 ' fmo=' 70 ' />
+    </block>
+
+
+    <block>
+      <space ne=' 4 ' imo=' 1 ' fmo=' 2 ' />
+      <space ne=' 4 ' imo=' 3 ' fmo=' 5 ' />
+      <space ne=' 2 ' imo=' 51 ' fmo=' 70 ' />
+    </block>
+
+
+  </cirun>
+
+</input>
+
+
